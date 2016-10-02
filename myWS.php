@@ -19,9 +19,9 @@ body{
 	min-height: 400px;
 	border-style: solid;
 	border-width: 1px;
-    border-color: #21cd00;
-    color: #29ff00;
-    margin-bottom: 30px;
+	border-color: #21cd00;
+	color: #29ff00;
+	margin-bottom: 30px;
 }
 
 .InputCommand{
